@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eben-ezer. A full and exact relation of the severall remarkable and victorious proceedings of the ever-renowned Colonell Massy, governour of Gloucester, from May 7. to May 25. 1644. In which time he tooke these severall considerable garrisons of the enemies in Gloucestershire and Wiltshire, namely, Wesbury, little Deane, Newnam, Beverston-castle, Malmsbury and Chippanham. With the summons sent by Col. Massie to Col. Howard (sonne to the Earl of Berkshire) Govenour of Malmsbury; and his answer thereunto. And the names of the officers and commanders taken there. As also, the votes of the House of Commons on Friday last, concerning the supplies to be sent to Col. Massie, and a thousand pounds per annum to be given to him and his heirs for ever, out of the estates of papists and delinquents; as a reward for the many acceptable services performed by him. Iune 4. 1644. Imprimatur, John White.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82561</idno>
+            <idno type="STC">Wing E126B</idno>
+            <idno type="STC">Thomason E50_17</idno>
+            <idno type="STC">ESTC R1044</idno>
+            <idno type="EEBO-CITATION">99858840</idno>
+            <idno type="PROQUEST">99858840</idno>
+            <idno type="VID">110899</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82561)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110899)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E50[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eben-ezer. A full and exact relation of the severall remarkable and victorious proceedings of the ever-renowned Colonell Massy, governour of Gloucester, from May 7. to May 25. 1644. In which time he tooke these severall considerable garrisons of the enemies in Gloucestershire and Wiltshire, namely, Wesbury, little Deane, Newnam, Beverston-castle, Malmsbury and Chippanham. With the summons sent by Col. Massie to Col. Howard (sonne to the Earl of Berkshire) Govenour of Malmsbury; and his answer thereunto. And the names of the officers and commanders taken there. As also, the votes of the House of Commons on Friday last, concerning the supplies to be sent to Col. Massie, and a thousand pounds per annum to be given to him and his heirs for ever, out of the estates of papists and delinquents; as a reward for the many acceptable services performed by him. Iune 4. 1644. Imprimatur, John White.</title>
+                  <author>Massey, Edward, Sir, 1619?-1674?</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. W. and are to be sold in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Howard, Henry, 1620-1663.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Gloucestershire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110899:1" rendition="simple:additions"/>
+            <p>EBEN-EZER. A Full and Exact RELATION OF THE Severall Remarkable and Victorious proceedings of the ever-renowned Colonell MASSY, Governour of Glouceſter, from <hi>May</hi> 7. to <hi>May</hi> 25. 1644.</p>
+            <p>In which time he tooke theſe ſeverall conſide<g ref="char:EOLhyphen"/>rable Garriſons of the enemies in Glouceſterſhire and Wiltſhire, namely, <hi>Wesbury,</hi> little <hi>Deane, Newnam, Beverſton-caſtle, Malmsbury,</hi> and <hi>Chippenham.</hi>
+            </p>
+            <p>With the Summons ſent by Col. <hi>Maſſie</hi> to Col. <hi>Howard</hi> (ſonne to the Earle of Berkſhire) Governour of Malmsbury; and his anſwer thereunto. And the names of the Officers and Commanders taken there.</p>
+            <p>As alſo, the Votes of the Houſe of Commons on Friday laſt, concerning the ſupplies to be ſent to Col. <hi>Maſſie,</hi> and a thouſand pounds <hi>per annum</hi> to be given to him and his heires for ever, out of the eſtates of Papiſts and Delinquents; as a reward for the many acceptable ſervices performed by him.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Iune 4. 1644.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>Imprimatur,</hi>
+                  </p>
+                  <closer>
+                     <signed>JOHN WHITE.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>LONDON, Printed for <hi>T. W.</hi> and are to be ſold in the Old-baily. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:110899:2"/>
+            <pb n="1" facs="tcp:110899:2"/>
+            <head>A true Relation of ſeverall happy and wonderfull Victories lately given unto Col. <hi>Maſſie</hi> Governour of Glouceſter, from <hi>May</hi> 7. 1644. untill the 25 of the ſame Moneth.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Tueſday the 7<hi rend="sup">th</hi> of May the Gover<g ref="char:EOLhyphen"/>nour marched out of Glouceſter with about nine hundred foot, and his owne Regiment of Horſe, and Col. <hi>Purefoys</hi> regiment of Horſe, two pieces of Ordnance, and other Car<g ref="char:EOLhyphen"/>riage fit for the march, with purpoſe to remove the enemies Garriſons at Wesbury, Little-Deane, and Newnam, all ſtrongly forti<g ref="char:EOLhyphen"/>fied, and well provided with Men, Armes, and Amuniti<g ref="char:EOLhyphen"/>on; all which it pleaſed God miraculouſly to deliver into his hands. For he firſt aſſaulting the Garriſon at Weſ<g ref="char:EOLhyphen"/>bury (which was Mr. <hi>Colcheſters</hi> houſe, and the Church) he got to the Church, and with Granadoes and Piſtoll<g ref="char:EOLhyphen"/>ſhot, the which he ſent in at the Windowes, he preſently made the enemy to forſake the Church, and to runne to the houſe: which being diſcerned by the Governours
+<pb n="2" facs="tcp:110899:3"/>Forces, the Church was quickly poſſeſſed by them; which made the Enemy forſake all their out-workes, and to cry for quarter. There were ſlaine of the enemy about twen<g ref="char:EOLhyphen"/>ty, and about threeſcore taken priſoners in that Garriſon, with their Armes and Ammunition. Whileſt the Foot was at this Garriſon at Wesbury, Colonell <hi>Maſſie</hi> comman<g ref="char:EOLhyphen"/>ded ſome of the horſe to march to Little-Deane, where the enemy had alſo fortified a houſe to face them, who falling ſuddenly into the Towne tooke divers of them in the Towne, and there killed Lieutenant-colonell <hi>Congre</hi> Governour of Newnham; and the Horſe onely with their Carbines, Swords, and Piſtols, ſuddenly ſurpriſed the Garriſon it ſelfe (although fortified) where were neere forty priſoners taken: and that night Colonel <hi>Maſſie</hi> quar<g ref="char:EOLhyphen"/>tered at Wesbury and Deane, and the next day drew up to Newnham, where preſently he beat the enemy out of the Towne into their Workes, which were double forti<g ref="char:EOLhyphen"/>fied and very ſtrong, having a very ſmall compaſſe to make good, and there being but one place poſſible to fall on the enemy, who having there foure ſmall pieces of Ordnance and good ſtore of Proviſion and Amuniti<g ref="char:EOLhyphen"/>on. Yet it pleaſed God to give the ſouldiers ſuch courage and reſolution that they fiercely ſtormed the Workes, and made the enemy to forſake them, and to runne into the Church, where the Governours forces ruſhed in upon them pell-mell, with much violence, which enforced them to cry out for quarter; which one <hi>Tipper</hi> an old ſer<g ref="char:EOLhyphen"/>vant to Sir <hi>J. Winter</hi> and an arch Papiſt perceiving, and being not willing to take quarter, gave fire to a barrell of Powder intending to deſtroy himſelfe and all the reſt, which occaſioned the putting of more to the ſword then otherwiſe had been, the Governour being much enraged to ſee any of his men ſcorched with Powder. In this
+<pb n="3" facs="tcp:110899:3"/>Garriſon was taken good ſtore of proviſions of all ſorts, 4 Guns, one great Wall-piece of 8 foot long, good ſtore of Granadoes, and ſome Fireworks, 8 barrels of Powder, 60 skeines of fine Match, with good ſtore of great ſhot for the Guns, about 150 priſoners, whereof 3 were Captaines, and one Capt. Butler was ſtaine with the butt<g ref="char:EOLhyphen"/>end of a Musket, and ſo was old <hi>Tipper</hi> (that traitor to the rules of War) with about 20 others; there were taken a<g ref="char:EOLhyphen"/>bout twenty others; there were taken alſo about 40 horſes. The priſoners were inſtantly conveyed to Glouceſter with ſafety, and the Governour quartered that night at Newnam and little Deane. But the wonderfull and ex<g ref="char:EOLhyphen"/>traordinary providence of God was in this, that in the taking of three fortified garriſons in two daies, and all by ſtorme, the Governour loſt never a man, onely ſome few were ſcorched with the treachery of the Papiſts powder-plot, and one had his arme ſhot off with Cannon-bullet, but none of the wounds mortall.</p>
+            <p>After the taking of the ſaid three ſeverall Garriſons, the Governour of Glouceſter marched with his ſaid for<g ref="char:EOLhyphen"/>ces to Lidney, where Sir <hi>Iohn Winters</hi> fortifications and proviſions being found too ſtrong for ſuch forces as the Governour had with him, the Governour drew off his wearied men, and cauſed three Iron-mills of Sir <hi>Iohn Winters,</hi> with his proviſion of Coales to be deſtroyed and burned, the ſame being very beneficiall to the ſaid Sir <hi>Iohn Winter,</hi> and moſt uſefull to him and the popiſh party for proviſions of warlike engines againſt the Parliaments Army and the Kingdome. While thoſe Noble actions of the Governour were performed in Glouceſter ſtire, Col. <hi>Mynn</hi> with his Regiments of Horſe and Foot forſooke Roſſe in Herefordſhire, and entered ſome into Hereford, and ſome into Monmoth for their better ſecurity; where<g ref="char:EOLhyphen"/>upon
+<pb n="4" facs="tcp:110899:4"/>the worthy Governour with his ſaid Forces of Foot and Horſe marched into Herefordſhire, poſſeſſed him<g ref="char:EOLhyphen"/>ſelfe of Roſle, tooke Wilton-bridge, being a draw-bridge on the River Wye, and tooke the houſe or caſtle neere unto it, with one and thirty priſoners and ſome horſe; and then ſent part of his horſe, <hi>viz.</hi> Col. <hi>Purefoys</hi> Regiment of horſe towards Monmoth, to give an Alarm there; and the other part, <hi>viz.</hi> his owne Regiment of horſe, towards Hereford, to performe the like; which cauſed the great Jeſuiticall Papiſt and arch Traytor, the L. <hi>Herbert,</hi> to ga<g ref="char:EOLhyphen"/>ther his forces of horſe and foot into Monmoth to joyne with the forces there of Col. <hi>Minus,</hi> and ſent all their horſe from Monmoth towards Wilton-bridge; but they were encountered by the way by the horſe ſent by the Gover<g ref="char:EOLhyphen"/>nour towards Monmoth, who charged them bravely, ſlew 5 or 6 of them, and the reſt being neere the Towne of Monmoth ſheltred themſelves there. In the meane time the Governour being now quietly poſſeſſed of all that part of Herefordſhire, ſummons the County to come in, and to take the Covenant, and to pay contribution unto him; where he found willing obedience by the greateſt part of the Yeomanry of that County, and was reſolved to have beſieged Hereford, which would have yeelded unto him in very ſhort time, as is ſince informed, had not other important occaſions called him from thence, to per<g ref="char:EOLhyphen"/>forme a greater ſervice in Gods cauſe. While the Gover<g ref="char:EOLhyphen"/>nour was thus employed in Herefordſhire he received ad<g ref="char:EOLhyphen"/>vertiſment that 7 of his ſouldiers had taken Col. <hi>Oglethorp</hi> the Governour of Beverſton-caſtle, and ſix others of his Troopers, and brought them to Glouceſter; and that a Captaine of his was going away into other ſervice of the Parliament: whereupon he comming to Glouceſter <hi>May</hi> 21, in the evening, diſpatched the buſineſſe he came a<g ref="char:EOLhyphen"/>bout;
+<pb n="5" facs="tcp:110899:4"/>and finding then by examination of ſome of the ſaid priſoners, that there were ſome diſtractions hapned upon taking the Governour of Beverſton-caſtle, touching the government thereof, and the rather becauſe the King had granted the ſame unto Sir <hi>Baynham Trockmorton</hi> whilſt the ſaid <hi>Oglethorpe</hi> was Governour; the ſaid Noble Governour of Glouceſter reſolved to take the opportuni<g ref="char:EOLhyphen"/>ty to performe ſome worthy exploits; and having then about 10 a clock at night the ſaid 21 of <hi>May</hi> received Let<g ref="char:EOLhyphen"/>ters from the Committee of the houſe of Commons no<g ref="char:EOLhyphen"/>minated for the affaires of the garriſon of Glouceſter, he wrote ſeverall Letters unto them from Glouceſter, which tooke up his time untill two a clocke in the morning, and then poſted backe into Herefordſhire 12 miles from Glo<g ref="char:EOLhyphen"/>ceſter the ſame day Wedneſday <hi>May</hi> 22. and there drew his ſaid forces of horſe and foot into one body at Roſſe, and then preſently cauſed his horſe to march by Glouce<g ref="char:EOLhyphen"/>ſter, appointing them to be the next day at the Rendez<g ref="char:EOLhyphen"/>vouz within 3 miles of Beverſton-caſtle 15 miles from Glouceſter Southward; and alſo the ſame day cauſed his foot to march ſomewhat a neerer way towards Beverſton-caſtle, over the River Severne unto Frampton, being at leaſt 16 miles, and were conſtrained to march all Wedneſ<g ref="char:EOLhyphen"/>day night to meet the horſe at the Rendezvouz appoin<g ref="char:EOLhyphen"/>ted, as aforeſaid; and from thence marched to Beverſton-caſtle on the Thurſday, where they firſt ſurprized about 60 horſe depaſturing under the Caſtle walls, and guarded with about 6 Musketiers, who flying gave the Alarm to the Caſtle, which the Noble Governour ſuddenly ſur<g ref="char:EOLhyphen"/>rounded with his horſe, and the ſame night drew up his foot and Artilery, and then ſending to ſummon the Caſtle, and writing alſo to the Lieutenant-colonell and other Of<g ref="char:EOLhyphen"/>ficers there ſome plauſible Letters, and offering faire
+<pb n="6" facs="tcp:110899:5"/>quarter and true performance, the Caſtle was ſurrendred unto him about 12 a clock the ſame night by accord, one<g ref="char:EOLhyphen"/>ly to give them quarter, liberty and their wearing appar<g ref="char:EOLhyphen"/>rell. In which Caſtle they had 50 Muskets, 4 barrels of Powder, and other proviſion; the command whereof was preſently delivered unto Captaine <hi>Read</hi> a faithfull man in the ſervice of the Parliament. The noble Governour ha<g ref="char:EOLhyphen"/>ving thus ſetled a garriſon for the Parliament in Bever<g ref="char:EOLhyphen"/>ſton-caſtle, continued his march the next morning toward Malmſbury in Wiltſhire, and the ſame day ſent this enſu<g ref="char:EOLhyphen"/>ing ſummons written with his own hand unto the Gover<g ref="char:EOLhyphen"/>nour of Malmsbury, <hi>viz.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="summons">
+               <body>
+                  <head>To the Governour or Commander in chiefe of the Garriſon of Malmsbury.</head>
+                  <p>YOu are hereby ſummoned, that you within one halfe houre after the comming of this to your hands, ſurrender the ſame, with all the Armes, Ammunition, proviſion, and other things of ſervice and uſe whatſoever unto Col. <hi>Maſſie</hi> Governor of Glouceſter, for the uſe, and on the behalfe of the King and his Parliament now ſitting at Weſtminſter. And he doth hereby en<g ref="char:EOLhyphen"/>gage himſelfe by all the ties of honour, that you, your officers, and ſouldiers ſhall not onely enjoy your lives, and be received under the protection of good uſage and quarter, but alſo all ſuch as ſhall deſire imployment with us, under my command, ſhall finde enter<g ref="char:EOLhyphen"/>tainment according to their qualities, or depart whither they pleaſe. And if you ſhall refuſe this proffer of mercy, then you are to expect no other but what Fire and Sword ſhall bring upon you.</p>
+                  <closer>
+                     <signed>Edw. Maſſie.</signed>
+                     <dateline>
+                        <hi>Dated</hi> 
+                        <date>24 of May, 1644.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="7" facs="tcp:110899:5"/>
+            <p>The Governour of Malmesbury within the time limi<g ref="char:EOLhyphen"/>ted in the ſaid Summons ſent this inſuing Anſwer.</p>
+            <floatingText xml:lang="eng" type="reply">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Have received your Summons, and (without any unſavoury language) do returne you this Anſwer: That we will maintaine this towne for the King and Parliament now ſitting at Ox<g ref="char:EOLhyphen"/>ford, in defence of thoſe Rites that pretended Parliament at Weſtminſter have abuſed and rob<g ref="char:EOLhyphen"/>bed our Nation. For the other particular, that upon deniall we muſt expect the extremity of Fire and Sword, we make this Anſwer: That thoſe extremities, I believe, are as likely to fall upon thoſe that aſſault this towne, as thoſe that defend it. For that point, of ſerving you, the truth is, we are all too proud.</p>
+                  <closer>
+                     <signed>Your Servant, <hi>Henry Howard.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This <hi>Henry Howard,</hi> a Colonell of Foot, and one of the Earle of <hi>Berkſhires</hi> ſonnes, being Governour there, pre<g ref="char:EOLhyphen"/>pared his Souldiers for defence, as well as for defiance, and filled his Works with his numerous Souldiers, bragging much of their valour and reſolution; which cauſed that worthy Commander Colonell <hi>Maſsie,</hi> to double his cart and diligence to ſtorme it, with all vigour, courage, and expedition; but it was late in the evening before he could draw up his Horſe, Foot, and Artillery before the ſaid
+<pb n="8" facs="tcp:110899:6"/>Towne: and theſe two difficulties happened unto him the ſame time: the one was his ſouldiers want of ſleep, having continued their conſtant watch, and continuall duty, for ſeverall dayes and nights together, without intermiſſion: the other was, the great ſtore of raine that fell the ſame evening, and continued all the night enſuing, whereby Colonell <hi>Purefoy's</hi> Regiment of Horſe were conſtrained to forſake the field, and ſeeke out ſome ſhelter for themſelves and their horſes: But the unwearied Governour, with his Foot, and ſome three or foure Troupes of Horſe of his owne Regiment, gave the Alarum to the Enemy all that night, playing hard with his Ordnance and Musketiers, during which time he himſelfe tooke great paines in ma<g ref="char:EOLhyphen"/>king Bliues, and in taking ſuch houſes as might beſt pre<g ref="char:EOLhyphen"/>ſerve his men, and reſolved to ſtorme it early the next mor<g ref="char:EOLhyphen"/>ning, and accordingly about Sun-riſing May 25. he drew out a ſtrong party of Musketiers againſt the Turne-Pike and chaine, who very gallantly aſſaulted the Enomy, and beat them from their Ordnance and Guards: ſome other of the Musketiers aſſaulting the Enemy in their Works (at one and the ſame time) with ſcaling-ladders, beat the Enemy from their Works, and with great courage and re<g ref="char:EOLhyphen"/>ſolution entred the ſame, wounded ſome, and the reſt fled further into the Towne: in all which it was hard to judge, whether that worthy Commander, by his perſonall acti<g ref="char:EOLhyphen"/>on, or diſcieet direction, were of greater availe in taking the Towne: but ſure it is, the ſame added much courage to the Captaines both of Horſe and Foot; inſomuch that Major <hi>Gray</hi> and Captaine <hi>Ayleworth</hi> with joynt courage, and brave horſes well mann'd, ſwiftly entred the towne, by leaping their Horſes over the chaine, and over the Turne-Pike, and encountred the firſt Enemy, by cutting off his arme with a ſword, and ſhot the next in the head
+<pb n="9" facs="tcp:110899:6"/>with a Piſtoll; and Captain <hi>Blunt,</hi> one of the Captaines of Foot, upon the diſcharge of the Enemies Ordnance forced his entrance into the Towne through the Enemies Worke where the Enemy plyed the Ordnance, which he overturned upon his entrance, and made way for his Soul<g ref="char:EOLhyphen"/>diers to follow: and Captaine <hi>White</hi> entred the Towne in another place over the Works, firſt maſtering the ſame with his Musketiers: but the firſt man that by force en<g ref="char:EOLhyphen"/>tred the Enemies Works, was a Serjeant with 40. reſolute Musketiers, to whom the Governour had promiſed five pounds, with other rewards to the 40. Musketiers, if they would give the firſt aſſault, and performe it with courage, which they did accordingly, and the Governour paid them liberally. It was a brave ſpectacle to ſee, how una<g ref="char:EOLhyphen"/>nimous both Commanders and Souldiers undertooke the enterprize, and with what undaunted ſpirits and carriage all of them in one minute of time performed the ſame, not<g ref="char:EOLhyphen"/>withſtanding their hard marches, want of ſleepe, and the unſeaſonable raine all that night. But let all glory and praiſe be given to the Lord of Hoſts, by whom the worke was done in ſo little time, and without ſo much as a man hurt of the Governours Souldiers in the ſtorming of it: nor did they loſe a man during their time of being there, except the Governours boy, and one common Souldier: our Forces lay but twelve or thirteene houres before the ſame, ere they tooke it by aſſault: the Governour of Malmesbury, and ſuch other Priſoners as were taken, are contained in the enſuing Liſt.</p>
+            <div type="prisoners">
+               <pb n="10" facs="tcp:110899:7"/>
+               <head>A Liſt of the Officers and Souldiers taken at <hi>Malmesbury,</hi> May <hi>25. 1644.</hi> at <hi>4.</hi> of the Clock in the morning.</head>
+               <list>
+                  <item>Henry Howard, <hi>Col. of Foot,</hi>
+                  </item>
+                  <item>William Howard, <hi>Liev Col.</hi>
+                  </item>
+                  <item>
+                     <hi>Sons to the Earl of Berkſhire.</hi>
+                  </item>
+                  <item>William Cheſter, <hi>Major.</hi>
+                  </item>
+                  <item>William Markham, <hi>Capt.</hi>
+                  </item>
+                  <item>Gilbert Wheathill, <hi>Capt.</hi>
+                  </item>
+                  <item>John Brimſden, <hi>Capt. Lievt.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Lievtenants.</head>
+                  <item>Richard Bleak.</item>
+                  <item>Edward Scott.</item>
+                  <item>William Roach.</item>
+               </list>
+               <list>
+                  <head>Enſignes.</head>
+                  <item>John Barrat.</item>
+                  <item>Robert Bates.</item>
+                  <item>Richard Cage.</item>
+                  <item>Browning.</item>
+               </list>
+               <list>
+                  <head>Quartermaſters.</head>
+                  <item>James Bower, Moreley.</item>
+                  <item>Laurence Short.</item>
+               </list>
+               <list>
+                  <head>Serjeants.</head>
+                  <item>Henry Dixon.</item>
+                  <item>Richard Fletcher.</item>
+                  <item>Robert Baily.</item>
+                  <item>William Fenton.</item>
+               </list>
+               <list>
+                  <head>Corporalls.</head>
+                  <item>Henry Painter.</item>
+                  <item>Thomas Hadley.</item>
+                  <item>John Poole.</item>
+                  <item>John Peerce.</item>
+                  <item>John Chappell.</item>
+                  <item>Gilbert Harris, <hi>Drummer.</hi>
+                  </item>
+                  <item>William Weeks, <hi>Chyrurgion</hi>
+                  </item>
+                  <item>John Clark, <hi>Capt. of Horſe.</hi>
+                  </item>
+                  <item>Private Souldiers, 149.</item>
+               </list>
+               <list>
+                  <head>Gentlemen that bare Armes.</head>
+                  <item>John Freame.</item>
+                  <item>William Norris.</item>
+                  <item>John Bridges.</item>
+               </list>
+               <p>
+                  <hi>The reſt of the Officers and Souldiers by running tho<g ref="char:EOLhyphen"/>row the River made their eſcape.</hi>
+               </p>
+               <list>
+                  <item>2. Iron Faulcons.</item>
+                  <item>2. Iron Hamberguns.</item>
+                  <item>9. Barrells of Powder.</item>
+                  <item>152. Skaines of Match.</item>
+                  <item>900. Weight of Shot.</item>
+                  <item>150. Muskets, <hi>or thereabouts.</hi>
+                  </item>
+               </list>
+               <pb n="11" facs="tcp:110899:7"/>
+               <p>As ſoone as the right worthy Colonell <hi>Maſſey</hi> had poſ<g ref="char:EOLhyphen"/>ſeſſed himſelfe of Malmesbury, and the Priſoners, he pre<g ref="char:EOLhyphen"/>ſerved all the towne from plunder of the Souldiers, and then ſent a ſtrong party to Chipham, who tooke in that Garriſon alſo, and about 80. Musketiers Priſoners, he took alſo ſeven Waines or Waggons laden with Sack and other Wines, going from Briſtoll to Oxford: but it is affirmed by others, that much of that lading is Armes and Ammu<g ref="char:EOLhyphen"/>nition. He hath ſince taken other townes, and brought the greateſt part of Wiltſhire under the obedience o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Parliament, and hath taken many other Commanders and Malignants adhering to the Cavaliers, and the Iriſh Re<g ref="char:EOLhyphen"/>bels, <hi>viz.</hi> M. <hi>George Low,</hi> of the Oxford-Parliament, and another, ſecond ſonne of Sir <hi>Edward Barmons,</hi> and one M. <hi>Chivers,</hi> with others: And by taking of Malmesbury and Beverſton Caſtle, all trade and commerce out of the Weſt to Oxford is much hindred, and from Briſtoll to Ox<g ref="char:EOLhyphen"/>ford quite taken away, and the trade of clothing opened from thoſe parts to London; and, as the report is, there are upon the way now coming up out of Wiltſhire to<g ref="char:EOLhyphen"/>wards London thirteen Wains laden with woollen cloth, which wilbe welcome to the Merchants and Drapers here, and other wares and commodities will be ſent and retur<g ref="char:EOLhyphen"/>ned from London into the Countrey: This is the Lords doing, and to him be given all the praiſe and glory. This alſo may ſtirre up the hearts of ſuch as are able to lend up<g ref="char:EOLhyphen"/>on the Glouceſter Ordinance, for the raiſing of ſome horſe to ſerve under the command of that valiant Commander, who will be left deſtitute of horſe, when the Regiment of Colonell <hi>Purefoys</hi> Horſe ſhall be called away from him, who is earneſtly deſired by the Committee of Coventrey, that he may returne againe into Warwickſhire, for the de<g ref="char:EOLhyphen"/>fence of that County, being raiſed by them for that pur<g ref="char:EOLhyphen"/>poſe.
+<pb n="12" facs="tcp:110899:8"/>To all which I will onely adde, and conclude with the Votes and Reſolutions of the Houſe of Commons, made upon reading the ſaid Governours Letters of the ta<g ref="char:EOLhyphen"/>king of Malmesbury and Beverſton, before-mentioned.</p>
+            </div>
+            <div type="letter">
+               <head>Die Veneris, <hi>31.</hi> Maii. <hi>1644.</hi>
+               </head>
+               <p>A Letter from Colonell <hi>Maſſey</hi> from Malmesbury of the 25. of May concerning the taking of the Towne of Malmesbury, and a copie of the Summons ſent to the Towne, and the Anſwer of the Garriſon, were all read: and likewiſe a Letter of the 27. of May from Malmesbury, relating the ſame particulars more at large, was likewiſe read; deſiring that his Regiment might be recruted be<g ref="char:EOLhyphen"/>fore any other addition of force: and likewiſe deſiring to know how that Town of Malmesbury ſhall be diſpoſed of.</p>
+               <floatingText xml:lang="eng" type="order">
+                  <body>
+                     <p>Ordered, That the Towne of <hi>Malmes<g ref="char:EOLhyphen"/>bury,</hi> and the Caſtle of <hi>Beverſton,</hi> as to the Government of them, ſhalbe left wholly to the diſpoſall of Colonell <hi>Maſſey.</hi>
+                     </p>
+                     <p>Ordered, That before there be any ad<g ref="char:EOLhyphen"/>dition made of new Regiments for the aſsi<g ref="char:EOLhyphen"/>ſtance of Colonell <hi>Maſſey,</hi> Colonell <hi>Maſſeys</hi> owne Regiment of Foot be first recruted, and that his Regiment of Horſes may be compleated for Men, Horſe, and Arms,
+<pb n="13" facs="tcp:110899:8"/>by ſuch ſupplies of Moneyes as by the Ordi<g ref="char:EOLhyphen"/>nance may be procured for <hi>Glouceſter.</hi>
+                     </p>
+                     <p>Ordered, That after Colonell <hi>Maſſeyes</hi> Regiments of Horſe and Foot ſhall be re<g ref="char:EOLhyphen"/>cruted and completed, That a Regiment of Horſe ſhall be raiſed for Colonell <hi>Stephens,</hi> High Sheriffe of the County of <hi>Glouceſter,</hi> to be under the command of Colonell <hi>Maſ<g ref="char:EOLhyphen"/>ſey:</hi> and that my Lord <hi>Generall</hi> be deſi<g ref="char:EOLhyphen"/>red to grant no Commiſsion to any other for raiſing any other Regiments for the County of <hi>Glouceſter,</hi> and the other Counties men<g ref="char:EOLhyphen"/>tioned in the Ordinance, but to ſuch as ſhall be recommended by Colonell <hi>Maſſey</hi> unto the Committee of <hi>Glouceſter,</hi> and by them to this Houſe.</p>
+                     <p>Ordered, That <hi>Roger Burgoyne</hi> do by this day ſevennight at fartheſt pay in the <hi>400. <abbr>l.</abbr>
+                        </hi> owing upon Bond to Capt. <hi>Matthews</hi> deceaſed, and aſsigned by former Order upon Colonell <hi>Maſſey.</hi>
+                     </p>
+                     <pb n="14" facs="tcp:110899:9"/>
+                     <p>Ordered, That it be referred to the Com<g ref="char:EOLhyphen"/>mittee for <hi>Glouceſter,</hi> to prepare an Ordi<g ref="char:EOLhyphen"/>nance, and bring it in on Tueſday morning next, for ſetling upon Colonell <hi>Maſſey</hi> an Eſtate of Jnheritance to the value of <hi>1000.</hi> pound <hi>per Annum,</hi> at least, out of ſome Papists and Delinquents Eſtates.</p>
+                     <closer>
+                        <signed>Char. Stavely Cler. Dom.</signed>
+                        <dateline>
+                           <hi>Pury.</hi> 
+                           <date>
+                              <hi>1644. June 4.</hi>
+                           </date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
